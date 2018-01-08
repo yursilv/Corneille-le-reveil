@@ -43,7 +43,7 @@ Un module pour charger une batterie: un module à base de TP4056.
 
 Une batterie LiPo ou Li-ion.
 
-Un systeme de cremaillere (roue + ligne crantée) pour déplacer un poids.
+Un systeme de cremaillere (roue dirigée par un servo-moteur + ligne crantée) pour déplacer un poids.
 
 Des roulements à bille et un bloc(ou une cage) pour fixer le système electronique dans la sphère sans contact avec cette dernière.
 
