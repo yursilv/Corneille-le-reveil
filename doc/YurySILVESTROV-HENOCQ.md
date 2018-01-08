@@ -7,7 +7,6 @@ On a décidé de créer un réveil qui s'enfuit à la manière de Clocky (https:
 
 Durant cette séance, on s'est mis d'accord sur les différents aspects du projet et on a défini un planning. Moi je dois plus me concentrer sur la partie programmation du projet.
 
-
 * Vacances de Noël
 
 J'ai commencé à développer le code Arduino pour notre projet et je me suis rendu compte que pour que le réveil puisse afficher l'heure précise il nous faut un module horloge (par exemple ds1307).
