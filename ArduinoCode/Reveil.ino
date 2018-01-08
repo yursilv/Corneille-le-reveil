@@ -79,7 +79,7 @@ void setupBT() {
   BTSerie.write("AT+PIN"+pinBT);
 }
 
-// met à jour l'heure de réveil définie par l'utilisateur
+// met à jour l'heure de réveil définie par l'utilisateur (à finir)
 void updateAlarm() {
   char alarmChar;
   while (BTSerie.available()) {
