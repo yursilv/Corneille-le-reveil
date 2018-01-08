@@ -14,3 +14,5 @@ J'ai commencé à développer le code Arduino pour notre projet et je me suis re
 Il faut également avoir une méthode pour déterminer si le réveil est bien sur son socle (pour forcer le mode "veille"). Je pense que le plus simple serait de détecter si le réveil est en train de charger par induction ou pas (s'il y a une tension qui est appliquée au module de chargement). J'ai donc besoin de savoir comment exactement va fonctionner notre socle ce qui est la partie gérée par Saveria.
 
 Sinon j'ai réalisé plusieurs petites méthodes: une méthode de test qui gère les déplacements, une fonction qui règle de manière automatique le module BT etc. Pour détecter qu'on a attrapé le réveil j'ai tout simplement utiliser la tension fornie par l'axe z de l'accéléromètre. Si cette tension est plus élevée qu'une tension de seuil (s'il y a une accélération brusque) le réveil passe en mode "veille".
+
+* Séance du 8 janvier 2018
