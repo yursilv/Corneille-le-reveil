@@ -16,3 +16,5 @@ Il faut également avoir une méthode pour déterminer si le réveil est bien su
 Sinon j'ai réalisé plusieurs petites méthodes: une méthode de test qui gère les déplacements, une fonction qui règle de manière automatique le module BT etc. Pour détecter qu'on a attrapé le réveil j'ai tout simplement utiliser la tension fornie par l'axe z de l'accéléromètre. Si cette tension est plus élevée qu'une tension de seuil (s'il y a une accélération brusque) le réveil passe en mode "veille".
 
 * Séance du 8 janvier 2018
+
+J'ai décidé d'améliorer la partie du programme qui gère le ramassage du réveil par l'utilisateur. Maintenant on doit aussi définir le seuil du temps en ms. Si la tension délivrée par l'axe z est supérieure à la tension de seuil pendant un temps défini (dans la variable seuilTemps) le réveil est considéré ramassé et passe en mode "veille".
