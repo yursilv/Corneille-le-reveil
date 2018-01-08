@@ -4,11 +4,11 @@
 
 Nous avons réparti les tâches pour les premières semaines:
 
--	Yuri s'occupera de la partie programmation de l'Arduino.
+-Yuri s'occupera de la partie programmation de l'Arduino.
 
--	Savéria fera des recherches sur la fabrication du socle de recharge par induction. Elle essaiera aussi d'étudier au mieux le projet BB-8 de l'année dernière.
+-Savéria fera des recherches sur la fabrication du socle de recharge par induction. Elle essaiera aussi d'étudier au mieux le projet BB-8 de l'année dernière.
 
--	Moi, je m'occupe de la partie montage du système électronique en réalisant en premier lieu un schéma pour savoir quels sont les composants nécessaires au fonctionnement du réveil roulant (exemples : quelles résistances choisir ? ; quel batterie choisir ? ...).
+-Moi, je m'occupe de la partie montage du système électronique en réalisant en premier lieu un schéma pour savoir quels sont les composants nécessaires au fonctionnement du réveil roulant (exemples : quelles résistances choisir ? ; quel batterie choisir ? ...).
 Ces tâches ont été définis en fonction des goûts de chacun. Il est en effet possible qu'au cours du projet nous échangions les rôles pour connaître à la perfection chaque partie du projet.
 
 * Séance du 8 janvier 2018
