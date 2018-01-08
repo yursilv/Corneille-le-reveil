@@ -20,7 +20,7 @@ Le chargement du réveil se fait par induction sur un socle spécial. Lorsque le
 
 # Materiel utilisé
 
-Un moteur(Soit avec 2 sorties opposées et le positionner au centre de la sphère. Soit un modèle classique positionné au centre mais orienté perpendiculairement à l'axe de rotation des roues et rajouter des engrenages coniques.).
+Un moteur à double arbre(https://fr.aliexpress.com/item/1pcs-lot-K803-Double-Output-Shaft-DC-Motor-1-5-6V-3V-11000rpm-DIY-Model-Making/32738378510.html?src=google&albslr=229364883&isdl=y&aff_short_key=UneMJZVf&source=%7Bifdyn:dyn%7D%7Bifpla:pla%7D%7Bifdbm:DBM&albch=DID%7D&src=google&albch=shopping&acnt=494-037-6276&isdl=y&albcp=653151748&albag=36672819047&slnk=&trgt=61865531738&plac=&crea=fr32738378510&netw=g&device=c&mtctp=&gclid=Cj0KCQiAyszSBRDJARIsAHAqQ4qwRn1335biiy_gyZQhkbwpWmwhq-Y1AqSzrQt87_KIMnHnsF4aic4aAs8eEALw_wcB).
 
 Une batterie pour alimenter les moteurs.
 
