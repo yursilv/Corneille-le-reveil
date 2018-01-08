@@ -1,7 +1,6 @@
 - une batterie Lipo
 
 - un TP4056 1A Lipo Battery Charging Board Charger Module: pour gérer la charge d'une cellule LiPo: 
-
 https://fr.aliexpress.com/item/5PCS-TP4056-1A-Lipo-Battery-Charging-Board-Charger-Module-lithium-battery-DIY-MICRO-Port-Mike-USB/32711377227.html?spm=a2g0w.search0104.3.20.1nKxGL&ws_ab_test=searchweb0_0,searchweb201602_2_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10613_10305_10304_10615_10307_10614_10306_10302_10059_10314_10184_10534_100031_10604_10103_10142,searchweb201603_25,ppcSwitch_5&algo_expid=512b7206-5eef-46c3-b04b-6d2e61ede4f2-2&algo_pvid=512b7206-5eef-46c3-b04b-6d2e61ede4f2&priceBeautifyAB=0
 
 -sphère transparente de diamètre 136 mm: 
