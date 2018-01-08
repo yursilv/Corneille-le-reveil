@@ -17,4 +17,4 @@ Sinon j'ai réalisé plusieurs petites méthodes: une méthode de test qui gère
 
 * Séance du 8 janvier 2018
 
-J'ai décidé d'améliorer la partie du programme qui gère le ramassage du réveil par l'utilisateur. Maintenant on doit aussi définir le seuil du temps en ms. Si la tension délivrée par l'axe z est supérieure à la tension de seuil pendant un temps défini (dans la variable seuilTemps) le réveil est considéré ramassé et passe en mode "veille".
+J'ai décidé d'améliorer la partie du programme qui gère le ramassage du réveil par l'utilisateur. Maintenant on doit aussi définir le seuil du temps en ms. Si la tension délivrée par l'axe z est supérieure à la seulTension pendant un temps défini dans la variable seuilTemps le réveil est considéré ramassé et passe en mode "veille".
