@@ -5,7 +5,7 @@
 J'ai formé mon groupe avec Saveria et Jeremy.
 On a décidé de créer un réveil qui s'enfuit à la manière de Clocky (https://nandahome.com/), mais qui a une forme sphérique, se déplace en roulant, affiche l'heure sur sa surface extêrne et se charge par induction.
 
-Durant cette séance, on s'est mis d'accord sur les différents aspects du projet et on a défini un planning. En ce qui me concerne je dois plus me concentrer sur la partie programmation du projet.
+Durant cette séance, on s'est mis d'accord sur les différents aspects du projet et on a défini un planning. En ce qui me concerne, je dois plus me concentrer sur la partie programmation du projet.
 
 * Vacances de Noël
 
