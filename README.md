@@ -24,13 +24,13 @@ Un moteur à double arbre(https://fr.aliexpress.com/item/1pcs-lot-K803-Double-Ou
 
 Une batterie pour alimenter les moteurs.
 
-Une carte d’Arduino.
+Une carte d’Arduino. OK
 
-Plusieurs Led afin d’afficher l’heure.
+Plusieurs Led afin d’afficher l’heure. OK
 
-Un module Bluetooth pour pouvoir contrôler le réveil à distance.
+Un module Bluetooth pour pouvoir contrôler le réveil à distance. OK
 
-Un accéléromètre pour pouvoir détecter la variation d’altitude du réveil.
+Un accéléromètre pour pouvoir détecter la variation d’altitude du réveil. OK
 
 Un synthétiseur vocal qu  délivre des messages audio à l’utilisateur.
 
