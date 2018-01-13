@@ -17,3 +17,9 @@ https://fr.aliexpress.com/item/1pcs-lot-K803-Double-Output-Shaft-DC-Motor-1-5-6V
 
 - un convertisseur boost: module à base de MT3608:
 https://fr.aliexpress.com/item/MT3608-2A-Max-DC-DC-Step-Up-Power-Module-Booster-Power-Module/1000001111095.html?spm=a2g0w.search0204.3.22.fjm34H&ws_ab_test=searchweb0_0,searchweb201602_2_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10305_10304_10615_10307_10306_10302_10059_10184_10314_10534_100031_10604_10103_10142,searchweb201603_25,ppcSwitch_4_ppcChannel&algo_expid=81404442-1773-4ad9-aa2d-85a4d2f99fcf-2&algo_pvid=81404442-1773-4ad9-aa2d-85a4d2f99fcf&priceBeautifyAB=0
+
+- système audio
+
+- cage pour fixer l'arduino
+
+- système de cremaillere
