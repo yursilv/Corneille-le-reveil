@@ -37,6 +37,7 @@ Un synthétiseur vocal qu  délivre des messages audio à l’utilisateur.
 Bobines pour faire le socle (https://www.aliexpress.com/item/Wireless-power-supply-experimental-suite-small-size-ultra-thin-wireless-inductive-power-supply-wireless-charging-DIY/32759633964.html?spm=a2g0s.9042311.0.0.d3KMgS).
 
 Un module horloge (par ex. ds1307)
+
 Un convertisseur boost: module à base de MT3608. (0,33 e à 2,05e)
 
 Un module pour charger une batterie: un module à base de TP4056.
