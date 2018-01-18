@@ -36,5 +36,3 @@ https://ouiaremakers.com/posts/tutoriel-diy-un-clone-de-bb8
 https://www.youtube.com/watch?v=p0MQ6b6bVsU
 
 https://www.youtube.com/watch?v=iQ_PKRjQpDY
-
-Je pense qu'on pourrait réaliser un prototype numérique par exemple à l'aide d'Autodesk.
