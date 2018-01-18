@@ -29,4 +29,6 @@ Nous avons défait le bb8 de l'année dernière pour récupérer les deux moteur
 http://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/
 http://www.instructables.com/id/DIY-Bluetooth-Phone-Controlled-BB-8-Droid-With-Ard/
 https://ouiaremakers.com/posts/tutoriel-diy-un-clone-de-bb8
+https://www.youtube.com/watch?v=p0MQ6b6bVsU
+https://www.youtube.com/watch?v=iQ_PKRjQpDY
 Je pense qu'on pourrait réaliser un prototype numérique par exemple à l'aide d'Autodesk.
