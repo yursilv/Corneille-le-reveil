@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=p0MQ6b6bVsU
 
 https://www.youtube.com/watch?v=iQ_PKRjQpDY
 
-Finalement je pense que le modèle avec les deux roues convient le mieux.
+Finalement je pense que le modèle avec les deux roues convient le plus.
