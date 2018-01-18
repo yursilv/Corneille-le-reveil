@@ -26,9 +26,15 @@ J'ai aussi fait des recherches sur la peinture translucide qu'on pourrait appliq
 * Séance du 15 janvier 2018
 
 Nous avons défait le bb8 de l'année dernière pour récupérer les deux moteurs, mais on hésite encore sur le mode de déplacement de notre réveil au niveau mécanique car il y a plusieurs systèmes possibles qu'on porrait essayer d'intégrer. J'ai donc regardé sur internet les différents modèles de bb8 réalisés avec ou sans arduino pour comprendre quel système serait le plus convenable pour nous.
+
 http://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/
+
 http://www.instructables.com/id/DIY-Bluetooth-Phone-Controlled-BB-8-Droid-With-Ard/
+
 https://ouiaremakers.com/posts/tutoriel-diy-un-clone-de-bb8
+
 https://www.youtube.com/watch?v=p0MQ6b6bVsU
+
 https://www.youtube.com/watch?v=iQ_PKRjQpDY
+
 Je pense qu'on pourrait réaliser un prototype numérique par exemple à l'aide d'Autodesk.
