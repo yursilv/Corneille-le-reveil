@@ -36,3 +36,5 @@ https://ouiaremakers.com/posts/tutoriel-diy-un-clone-de-bb8
 https://www.youtube.com/watch?v=p0MQ6b6bVsU
 
 https://www.youtube.com/watch?v=iQ_PKRjQpDY
+
+Finalement je pense que le modèle avec les deux roues convient le mieux.
