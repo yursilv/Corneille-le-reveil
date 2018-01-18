@@ -21,4 +21,12 @@ J'ai décidé d'améliorer la partie du programme qui gère le ramassage du rév
 
 J'ai l'idée de réaliser une méthode qui, lorsque la connection bluetooth est établie ou lorsque l'on change l'heure de réveil, émet un bruit à partir du module sonore du réveil pour confirmer la réception des informations.
 
-J'ai aussi effectué des recherches sur la peinture translucide qu'on pourrait appliquer à notre sphère pour l'affichage de l'heure. Malheureusement je n'ai pas trouvé grand chose. La seule solution efficace à mon avis serait d'intégrer un petit tableau d'affichage avec des LEDs à la surface intérieure de la sphère et peindre la sphère en noir (ou une autre couleur) en laissant des petit bout transparents pour les LEDs.
+J'ai aussi fait des recherches sur la peinture translucide qu'on pourrait appliquer à notre sphère pour l'affichage de l'heure. Malheureusement je n'ai pas trouvé grand chose. Une solution pour moi serait d'intégrer un petit tableau d'affichage avec des LEDs à la surface de la sphère à l'aide d'un aimant.
+
+* Séance du 15 janvier 2018
+
+Nous avons défait le bb8 de l'année dernière pour récupérer les deux moteurs, mais on hésite encore sur le mode de déplacement de notre réveil au niveau mécanique car il y a plusieurs systèmes possibles qu'on porrait essayer d'intégrer. J'ai donc regardé sur internet les différents modèles de bb8 réalisés avec ou sans arduino pour comprendre quel système serait le plus convenable pour nous.
+http://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/
+http://www.instructables.com/id/DIY-Bluetooth-Phone-Controlled-BB-8-Droid-With-Ard/
+https://ouiaremakers.com/posts/tutoriel-diy-un-clone-de-bb8
+Je pense qu'on pourrait réaliser un prototype numérique par exemple à l'aide d'Autodesk.
