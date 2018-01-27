@@ -19,7 +19,7 @@ Sinon j'ai réalisé plusieurs petites méthodes: une méthode de test qui gère
 
 J'ai décidé d'améliorer la partie du programme qui gère le ramassage du réveil par l'utilisateur. Maintenant on doit aussi définir le seuil du temps en ms. Si la tension délivrée par l'axe z est supérieure à la seulTension pendant un temps défini dans la variable seuilTemps le réveil est considéré ramassé et passe en mode "veille".
 
-J'ai l'idée de réaliser une méthode qui, lorsque la connection bluetooth est établie ou lorsque l'on change l'heure de réveil, émet un bruit à partir du module sonore du réveil pour confirmer la réception des informations.
+J'ai l'idée de réaliser une méthode qui, lorsque la connection bluetooth est établie ou lorsque l'on change l'heure de réveil, émet un bruit à partir du module sonore du réveil pour confirmer la réception des données.
 
 J'ai aussi fait des recherches sur la peinture translucide qu'on pourrait appliquer à notre sphère pour l'affichage de l'heure. Malheureusement je n'ai pas trouvé grand chose. Une solution pour moi serait d'intégrer un petit tableau d'affichage avec des LEDs à la surface de la sphère à l'aide d'un aimant.
 
