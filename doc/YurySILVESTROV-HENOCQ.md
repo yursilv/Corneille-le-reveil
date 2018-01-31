@@ -39,6 +39,10 @@ https://www.youtube.com/watch?v=iQ_PKRjQpDY
 
 Finalement je pense que le modèle avec les deux roues convient le plus.
 
+* Séance du 22 janvier 2018
+
+Nous avons testé le fonctionnement des moteurs avec le module de contrôle.
+
 * Vacances de Ski
 
 J'ai commencé à développer notre application Android. Les fonctionnalités qui me posent le plus de problèmes sont la connection et la transmission de données par bluetooth. En effet, il y a un grand nombre de notions de programmation que je ne connais pas dans les tutos trouvés sur internet, notamment l'utilisation des "thread" et des "socket". Finalement en cherchant un peu partout j'ai réussi à créer un programme dont je comprend plus ou moins le fonctionnement et il ne reste plus qu'à le tester la séance prochaine.
