@@ -41,7 +41,7 @@ Finalement je pense que le modèle avec les deux roues convient le plus.
 
 * Séance du 22 janvier 2018
 
-Nous avons testé le fonctionnement des moteurs avec le module de contrôle.
+Nous avons fait la présentation et à la fin de la séance on a pu tester le fonctionnement des moteurs avec le module de contrôle et voir que tout marche bien.
 
 * Vacances de Ski
 
