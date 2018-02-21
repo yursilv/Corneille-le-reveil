@@ -19,3 +19,23 @@ On prend la décision de commander :
 
 Il va te falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définie l'intensité de charge en fonction de la batterie et de l'alim). 
 En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino.
+
+
+* Semaine du 15/01/18
+prototype en carton et premier test
+
+* Semaine du 22/01/18
+neant
+
+* Semaine du 29/01/18
+semaine de ski (neant)
+
+* Semaine du 05/02/18
+idem semaine apres mise en place du prototype en carton
+
+* Semaine du 12/02/18
+Sur papier, à retranscrire (fabrication du socle) réception des bobines à induction
+il faut commandr une batterie rechargeable avec port micro usb
+
+* Semaine du 19/02/18
+Je mets à jour mon cahier d'avancement. On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (L293D) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. 
