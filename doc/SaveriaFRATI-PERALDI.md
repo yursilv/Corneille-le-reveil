@@ -25,17 +25,18 @@ En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la
 prototype en carton et premier test
 
 * Semaine du 22/01/18
-neant
+dem semaine apres mise en place du prototype en carton
 
 * Semaine du 29/01/18
 semaine de ski (neant)
 
 * Semaine du 05/02/18
-idem semaine apres mise en place du prototype en carton
 
-* Semaine du 12/02/18
 Sur papier, à retranscrire (fabrication du socle) réception des bobines à induction
 il faut commandr une batterie rechargeable avec port micro usb
 
+* Semaine du 12/02/18
+pas darduino cette semaine, je navance pas sur le projet de mon coté
+
 * Semaine du 19/02/18
-Je mets à jour mon cahier d'avancement. On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (L293D) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. 
+Je mets à jour mon cahier d'avancement. On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (L293D) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. On a pas reçu la batterie speciale donc je ne peux pas avancer sur mon socle. 
