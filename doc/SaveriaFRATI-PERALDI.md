@@ -41,3 +41,4 @@ pas darduino cette semaine, je navance pas sur le projet de mon coté
 * Semaine du 19/02/18
 Je mets à jour mon cahier d'avancement. On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (L293D) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. On a pas reçu la batterie speciale donc je ne peux pas avancer sur mon socle. 
 AJOUTER LES PHOTOS/SCHEMAS de la structure /IMAGES des composats
+J'ai transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder labatterie et les moteurs. La prochaine etape sera de passer du prototype carton au plastique/plexi.
