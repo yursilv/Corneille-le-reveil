@@ -20,6 +20,7 @@ Nous avons commencé à creusé sur les éléments nécessaires au projet. Pour 
 
 * Séance du 22 janvier 2018
 
+Nous avons réalisé la première présentation et avons essayé le module de commande des moteurs.
 
 * Séance du 7 février 2018
 
