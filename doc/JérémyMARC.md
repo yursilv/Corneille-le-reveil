@@ -17,14 +17,15 @@ Nous avons commencé à creusé sur les éléments nécessaires au projet. Pour 
 
 * Séance du 15 janvier 2018
 
+Nous avons démonté le projet BB-8 de l'an dernier. Nous avons aussi changé de méthode pour le déplacement. Cela est dû à la complexité du système précédent. Ce nouveau système est composé de 2 moteurs alimentés en courant continu qui entraînerons des roues qui en contact avec la boule feront avancer le réveil. La seule contrainte avec ce système, c'est de bien situer le baricentre sous l'axe des roues.
 
 * Séance du 22 janvier 2018
 
-Nous avons réalisé la première présentation et avons essayé le module de commande des moteurs.
+Nous avons réalisé la première présentation et nous avons essayé le module de commande des moteurs.
 
 * Séance du 7 février 2018
 
-Nous avons trouvé la batterie à utilsé pour alimenter les moteurs et l'arduino. Nous avons aussi fait des tests avec le chargeur à induction pour connaître la distance maximale à laquelle on peut recharger la batterie.
+J'ai trouvé la batterie à utilsé pour alimenter les moteurs et l'arduino et nous l'avons commandé. Nous avons aussi fait des tests avec le chargeur à induction pour connaître la distance maximale à laquelle on peut recharger la batterie. Nous en avons déduit qu'avec une tension suffisament élevée en entrée nous pouvons avoir un espace entre les 2 bobines de environ 4cm et recevoir une tension de sortie proche de 5V.
 
 * Séance du 21 février 2018
 
