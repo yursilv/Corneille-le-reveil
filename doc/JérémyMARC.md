@@ -14,3 +14,16 @@ Ces tâches ont été définis en fonction des goûts de chacun. Il est en effet
 * Séance du 8 janvier 2018
 
 Nous avons commencé à creusé sur les éléments nécessaires au projet. Pour ma part j’ai fait des recherches sur les méthodes de déplacement et les aspects mécaniques. C’est-à-dire que j’ai observé diverses manières de transmission de l’énergie mécanique depuis le moteur jusqu’à la sphère. J’en ai conclu d’utiliser un moteur à courant continu à 2 arbres de transmission qu’on relie à deux points opposés de la sphère. Pour faire faire des virages au réveil, j’ai choisi d’utiliser un poids basculant à l’aide d’une crémaillère dirigé par un servo-moteur (tests à suivre pour vérifier la validité…). J’ai réfléchi sur le problème de comment on va mettre l’arduino dans la sphère sachant qu’aucun des composants ne doit toucher cette sphère. Pour cela j’ai eu l’idée de construire un support fixé sur des roulements à bille eux-mêmes placé sur les axes de rotation entre le moteur et la sphère.
+
+* Séance du 15 janvier 2018
+
+
+* Séance du 22 janvier 2018
+
+
+* Séance du 7 février 2018
+
+Nous avons trouvé la batterie à utilsé pour alimenter les moteurs et l'arduino. Nous avons aussi fait des tests avec le chargeur à induction pour connaître la distance maximale à laquelle on peut recharger la batterie.
+
+* Séance du 21 février 2018
+
