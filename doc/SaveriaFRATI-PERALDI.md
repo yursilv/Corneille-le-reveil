@@ -1,5 +1,8 @@
 <h1>Cahier de suivi du projet de Saveria FRATI-PERALDI</h1>
 
+<h2>Début du projet</h2>
+Nous formons un groupe 
+
 <h2>Semaine du 08/01/18</h2>
 
 Je m’attèle à comprendre comment marche le chargement par induction.
