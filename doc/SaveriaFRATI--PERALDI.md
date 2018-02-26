@@ -17,7 +17,8 @@ Pour celà, j'entreprends des recherches, dont ci -joint mes notes:
 <br><i>« La norme Qi est conçue pour les appareils (smartphones, appareils photo et télécommandes) utilisant au maximum 5 watts de puissance » </i>: après vérification, l’Arduino est compatible. 
 <br><i>« La norme Qi est basée sur la transmission d’énergie sans fil sur une distance maximale de 40 mm »</i>: si le chargement par induction paraît viable, dès réception des bobines, il faudra vérifier cette distance, et voir si la sphère en plastique sera compatible avec le chargement.
 
-Il faut maintenant choisir d'utiliser une batterie Li-ion (Lithium - ion) ou LiPo (Lithium Polymère), nous choisissons Li-ion par défaut, puisqu'elle est la plus man. Le principe du chargement est le suivant (ci-joint schéma) : schéma.pdf.
+Il faut maintenant choisir d'utiliser une batterie Li-ion (Lithium - ion) ou LiPo (Lithium Polymère), nous choisissons Li-ion par défaut, puisqu'elle est la plus mentionnée dans les forums que je consulte. 
+Le principe du chargement est le suivant (ci-joint schéma) : <b>schéma_chargement.pdf</b>.
 Attention, il faut impérativement que le chargeur intégré à ton socle soit équipé d'une protection contre les courts-circuits, car il est facile de court-circuiter des contacts "nus". Un fusible réarmable (polyswitch) fait l'affaire en général.
 
 On prend la décision de commander :
