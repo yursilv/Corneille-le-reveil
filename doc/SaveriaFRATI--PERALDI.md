@@ -12,11 +12,12 @@ En effet, je dois comprendre le but et fonctionnement du BB-8 puis évaluer ses 
 
 Je m’attèle à comprendre comment marche le chargement par induction. 
 Pour celà, j'entreprends des recherches, dont ci -joint mes notes: 
-<br><b>« Les chargeurs par induction sont aussi appelés chargeurs sans fil, du fait de leur fonctionnement reposant sur l’induction électromagnétique. Le système génère un signal électrique qui permet de recharger » :</b> dans notre cas, les chargeurs sans fil à induction<b>.
-« Plus en détails, la charge par induction consiste à générer de l’énergie qui transite via un champ électromagnétique sur une très courte distance afin d’être récupérée ensuite par les capteurs d’énergie du téléphone pour enfin être transmis à la batterie »</b>: il faut trouver le moyen de récupérer cette énergie et la délivrer à la batterie sans endommager ni cette dernière, ni l'Arduino<b>.
-« La norme Qi est conçue pour les appareils (smartphones, appareils photo et télécommandes) utilisant au maximum 5 watts de puissance » </b>: après vérification, l’Arduino est compatible<b>. « La norme Qi est basée sur la transmission d’énergie sans fil sur une distance maximale de 40 mm »</b>: si le chargement par induction paraît viable, dès réception des bobines, il faudra vérifier cette distance, et voir si la sphère en plastique sera compatible avec le chargement<b>.
+<br><i>« Les chargeurs par induction sont aussi appelés chargeurs sans fil, du fait de leur fonctionnement reposant sur l’induction électromagnétique. Le système génère un signal électrique qui permet de recharger » :</i> dans notre cas, les chargeurs sans fil à induction.
+<br><i>« Plus en détails, la charge par induction consiste à générer de l’énergie qui transite via un champ électromagnétique sur une très courte distance afin d’être récupérée ensuite par les capteurs d’énergie du téléphone pour enfin être transmis à la batterie »</i>: il faut trouver le moyen de récupérer cette énergie et la délivrer à la batterie sans endommager ni cette dernière, ni l'Arduino.
+<br><i>« La norme Qi est conçue pour les appareils (smartphones, appareils photo et télécommandes) utilisant au maximum 5 watts de puissance » </i>: après vérification, l’Arduino est compatible. 
+<br><i>« La norme Qi est basée sur la transmission d’énergie sans fil sur une distance maximale de 40 mm »</i>: si le chargement par induction paraît viable, dès réception des bobines, il faudra vérifier cette distance, et voir si la sphère en plastique sera compatible avec le chargement.
 
-Il faut donc choisir quel type de batterie utiliser, nous choisissons Li-ion par défaut. Le principe du chargement est le suivant (ci-joint schéma) : schéma.pdf.
+Il faut maintenant choisir d'utiliser une batterie Li-ion (Lithium - ion) ou LiPo (Lithium Polymère), nous choisissons Li-ion par défaut, puisqu'elle est la plus man. Le principe du chargement est le suivant (ci-joint schéma) : schéma.pdf.
 Attention, il faut impérativement que le chargeur intégré à ton socle soit équipé d'une protection contre les courts-circuits, car il est facile de court-circuiter des contacts "nus". Un fusible réarmable (polyswitch) fait l'affaire en général.
 
 On prend la décision de commander :
