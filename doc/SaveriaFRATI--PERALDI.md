@@ -23,14 +23,14 @@ Le principe du chargement est le suivant (ci-joint schéma) : <b>schéma_charge
 Dans les recherches que j'effectue concernant l'intégration des bobines au socle, je note le commentaire d'un utilisateur: <i>« Attention, il faut impérativement que le chargeur intégré à ton socle soit équipé d'une protection contre les courts-circuits, car il est facile de court-circuiter des contacts "nus".»</i> L'utilisateur a aussi prescrit l'utilisation d'un fusible réarmable (polyswitch) qui <i>«fait l'affaire en général»</i>, après vérification auprès de M.Masson et d'autres informations sur Internet, ce composant est adapté à notre projet.
 
 On prend la décision de commander :
-  - Bobines améliorées:<b>bobines_induction.jpeg</b> ;
-  - Sphère:<b>sphere_transparente.jpeg</b> .
+  - Bobines améliorées : <b>bobines_induction.jpeg</b> ;
+  - Sphère : <b>sphere_transparente.jpeg</b> .
 
 <hr>
 
 <h2>Semaine du 15/01/18</h2>
 Cette semaine, sur les bons conseils de M.Masson, nous procédons au démantèlement total de feu BB-8. Nous récupérons les deux moteurs simple arbre et les roues. Nous mettons de coté la plaque de plexiglass (sur laquelle reposait la majorité des composants électroniques), la sphère externe, la batterie et la troisième roue de l'ensemble (qui augmentait l'adhérence de la structure à la sphère extérieure).
-Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux moteurs + batterie" <b>(cf. prototype_carton_0.jpg)</b>, et nous le testons en pleine classe. Les moteurs marchent bien! 
+Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux moteurs + batterie" (cf. <b>prototype_carton_0.jpg</b>), et nous le testons en pleine classe. Les moteurs marchent bien! 
 
 <hr>
 
