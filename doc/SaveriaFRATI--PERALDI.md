@@ -36,19 +36,23 @@ Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux mote
 
 <h2>Semaine du 22/01/18</h2>
 Nous tentons à nouveau de faire marcher les moteurs sans asservissement, ça marche aussi mais on remarque que dès que la sphère acquiert une certaine vitesse et heurte un obstacle (mur, paillasse, chaise...), les deux parties de la sphère se désolidarisent. Il faudra peut-être réfléchir sur la façon dont les sphères seront soudées dans le prototype final.  
-Nous utilisons donc un L298N, un composant qui a pour but de "driver" (contrôler) les moteurs. Yuri code et l'applique aux roues, on témoigne du bon fonctionnement des roues, puisqu'elle tournent dans deux sens différents mais en ayant la même vitesse de rotation.
+Nous utilisons donc un L298N (cf. <b>L298N.png</b>), un composant qui a pour but de "driver" (contrôler) les moteurs. Yuri code et l'applique aux roues, on témoigne du bon fonctionnement des roues, puisqu'elle tournent dans deux sens différents mais en ayant la même vitesse de rotation. Ce composant est plus puissant que les autres drivers, puisqu'il peut réguler sa température mais pose un désavantage notoire dans le cadre de notre projet puisqu'il prend beaucoup plus de place que prévu. Ce dernier critère pourra poser à terme un problème au niveau du barycentre de notre structure. 
 
 <hr>
 
 <h2>Semaine du 29/01/18</h2>
-semaine de ski (neant)
+Semaine de ski: je n'ai pas pris de matériel avec moi, et donc pas de travail notoire à mentionner même si j'ai quand même regarder les types de projets qui ressemblaient au notre. 
 
 <hr>
 
 <h2>Semaine du 05/02/18</h2>
 
-Il va te falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définie l'intensité de charge en fonction de la batterie et de l'alim). 
-En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino
+Cette semaine je 'm'intéresse plus au socle et à ma partie à proprement parler. 
+Je continue mes recherches puisque qu'un nouveau problème se pose: "Est-ce-que l'énergie récupérée émergeant des bobines va être automatiquement transformée en tension aux bornes de la batterie et que cette dernière sera chargée, de fait?". Je lis donc un commentaire qui m'ouvre une piste: 
+<br><i>« Il va falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définit l'intensité de charge en fonction de la batterie et de l'alimentation). En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino. »</i> : après vérification, l'utilisation d'un convertisseur boost couplé à un Arduino n'est pas conseillé, il pourrait créer des parasites. 
+
+J'oriente donc ma séance sur l'étude des bobines, la distance maximale à laquelle les bobines offrent un bon rendement et je me rends rapidement compte que le petit module électronique couplé aux bobines a pour but de transformer l'énergie aux tensions. La vidéo que Yuri nous montre nous fait part d'une expérience toute simple où 
+
 dem semaine apres mise en place du prototype en carton
 
 Sur papier, à retranscrire (fabrication du socle) réception des bobines à induction
