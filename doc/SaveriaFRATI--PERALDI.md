@@ -35,9 +35,8 @@ Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux mote
 <hr>
 
 <h2>Semaine du 22/01/18</h2>
-Il va te falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définie l'intensité de charge en fonction de la batterie et de l'alim). 
-En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino
-dem semaine apres mise en place du prototype en carton
+Nous tentons à nouveau de faire marcher les moteurs sans asservissement, ça marche aussi mais on remarque que dès que la sphère acquiert une certaine vitesse et heurte un obstacle (mur, paillasse, chaise...), les deux parties de la sphère se désolidarisent. Il faudra peut-être réfléchir sur la façon dont les sphères seront soudées dans le prototype final.  
+Nous utilisons donc un L298N, un composant qui a pour but de "driver" (contrôler) les moteurs. Yuri code et l'applique aux roues, on témoigne du bon fonctionnement des roues, puisqu'elle tournent dans deux sens différents mais en ayant la même vitesse de rotation.
 
 <hr>
 
@@ -47,6 +46,10 @@ semaine de ski (neant)
 <hr>
 
 <h2>Semaine du 05/02/18</h2>
+
+Il va te falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définie l'intensité de charge en fonction de la batterie et de l'alim). 
+En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino
+dem semaine apres mise en place du prototype en carton
 
 Sur papier, à retranscrire (fabrication du socle) réception des bobines à induction
 il faut commandr une batterie rechargeable avec port micro usb
