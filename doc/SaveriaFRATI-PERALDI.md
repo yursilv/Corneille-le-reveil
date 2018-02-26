@@ -1,6 +1,6 @@
 # Cahier de suivi du projet de Saveria FRATI-PERALDI
 
-* Semaine du 08/01/18
+<h1>Semaine du 08/01/18</h1>
 
 Je m’attèle à comprendre comment marche le chargement par induction.
 
