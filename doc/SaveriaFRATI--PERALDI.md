@@ -17,26 +17,26 @@ Pour celà, j'entreprends des recherches, dont ci -joint mes notes:
 <br><i>« La norme Qi est conçue pour les appareils (smartphones, appareils photo et télécommandes) utilisant au maximum 5 watts de puissance » </i>: après vérification, l’Arduino est compatible. 
 <br><i>« La norme Qi est basée sur la transmission d’énergie sans fil sur une distance maximale de 40 mm »</i>: si le chargement par induction paraît viable, dès réception des bobines, il faudra vérifier cette distance, et voir si la sphère en plastique sera compatible avec le chargement. <em>cf Semaine du 05/02/18</em>
 
-<br>Il faut maintenant choisir d'utiliser une batterie Li-ion (Lithium - ion) ou LiPo (Lithium Polymère), nous choisissons Li-ion par défaut, puisqu'elle est la plus mentionnée dans les forums que je consulte. 
+Il faut maintenant choisir d'utiliser une batterie Li-ion (Lithium - ion) ou LiPo (Lithium Polymère), nous choisissons Li-ion par défaut, puisqu'elle est la plus mentionnée dans les forums que je consulte. 
 
-<br>Le principe du chargement est le suivant (ci-joint schéma) : <b>schéma_chargement.pdf</b>.
+Le principe du chargement est le suivant (ci-joint schéma) : <b>schéma_chargement.pdf</b>.
 Dans les recherches que j'effectue concernant l'intégration des bobines au socle, je note le commentaire d'un utilisateur: <i>« Attention, il faut impérativement que le chargeur intégré à ton socle soit équipé d'une protection contre les courts-circuits, car il est facile de court-circuiter des contacts "nus".»</i> L'utilisateur a aussi prescrit l'utilisation d'un fusible réarmable (polyswitch) qui <i>«fait l'affaire en général»</i>, après vérification auprès de M.Masson et d'autres informations sur Internet, ce composant est adapté à notre projet.
 
 On prend la décision de commander :
   - Bobines améliorées:<b>bobines_induction.jpeg</b> ;
   - Sphère:<b>sphere_transparente.jpeg</b> .
 
-Il va te falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définie l'intensité de charge en fonction de la batterie et de l'alim). 
-En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino.
-
 <hr>
 
 <h2>Semaine du 15/01/18</h2>
-prototype en carton et premier test
+Cette semaine, sur les bons conseils de M.Masson, nous procédons au démantèlement total de feu BB-8. Nous récupérons les deux moteurs simple arbre et les roues. Nous mettons de coté la plaque de plexiglass (sur laquelle reposait la majorité des composants électroniques), la sphère externe, la batterie et la troisième roue de l'ensemble (qui augmentait l'adhérence de la structure à la sphère extérieure).
+Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux moteurs + batterie" <b>(cf. prototype_carton_0.jpg)</b>, et nous le testons en pleine classe. Les moteurs marchent bien! 
 
 <hr>
 
 <h2>Semaine du 22/01/18</h2>
+Il va te falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définie l'intensité de charge en fonction de la batterie et de l'alim). 
+En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino
 dem semaine apres mise en place du prototype en carton
 
 <hr>
