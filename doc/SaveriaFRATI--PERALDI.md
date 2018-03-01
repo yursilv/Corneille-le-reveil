@@ -79,7 +79,9 @@ On estime que le driver des moteurs actuel (L298N) est trop gros pour la structu
 
 Nous n'avons toujours pas reçu la batterie speciale donc je ne peux pas avancer sur mon socle. 
 
-En fin de séance, j'ai enfin transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder les fils rouge et noir de la batterie et ceux des moteurs. La prochaine étape sera de passer du prototype carton au plastique/plexi.
+En fin de séance, j'ai enfin transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder les fils rouge et noir de la batterie et ceux des moteurs. 
+Dès réception de la pile, je pourrai connecter les bobines, la batterie et la prise secteur pour faire les premiers tests, et finaliser le socle.
+La prochaine étape sera de passer du prototype carton au plastique/plexi.
 
 
 <hr>
