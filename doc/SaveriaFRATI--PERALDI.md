@@ -38,6 +38,8 @@ Cette semaine, sur les bons conseils de M.Masson, nous procédons au démantèle
 <br></br>
 Nous récupérons les deux moteurs simple arbre et les roues. Nous mettons de coté la plaque de plexiglass (sur laquelle reposait la majorité des composants électroniques), la sphère externe, la batterie et la troisième roue de l'ensemble (qui augmentait l'adhérence de la structure à la sphère extérieure).
 <br></br>
+Après étude de projets déjà existants et de mulitples concertations, nous convenons de la forme finale qu'aurait Corneille (cf. <b>croquis_Corneille_1.jpg</b>). Corneille ressemblera donc au BB8 dans le sens où nous allons placer une plaque en plexiglass ( en bleu) au centre de la sphère autour de laquelle sera rattaché tous les composants(Arduino, module Bluetooth, moteurs, batterie et driver en jaune). Sera aposé tout autour de la sphère un roulement à billes (en vert) pour augmenter l'adhérence de notre structure à la sphère qui la contient. 
+<br></br>
 Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux moteurs + batterie" (cf. <b>prototype_carton_0(a/b/c).jpg</b>), et nous le testons en pleine classe. Les moteurs marchent bien! 
 
 <hr>
