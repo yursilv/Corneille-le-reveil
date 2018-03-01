@@ -36,12 +36,13 @@ Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux mote
 
 <h2>Semaine du 22/01/18</h2>
 Nous tentons à nouveau de faire marcher les moteurs sans asservissement, ça marche aussi mais on remarque que dès que la sphère acquiert une certaine vitesse et heurte un obstacle (mur, paillasse, chaise...), les deux parties de la sphère se désolidarisent. Il faudra peut-être réfléchir sur la façon dont les sphères seront soudées dans le prototype final.  
-Nous utilisons donc un L298N (cf. <b>L298N.png</b>), un composant qui a pour but de "driver" (contrôler) les moteurs. Yuri code et l'applique aux roues, on témoigne du bon fonctionnement des roues, puisqu'elle tournent dans deux sens différents mais en ayant la même vitesse de rotation. Ce composant est plus puissant que les autres drivers, puisqu'il peut réguler sa température mais pose un désavantage notoire dans le cadre de notre projet puisqu'il prend beaucoup plus de place que prévu. Ce dernier critère pourra poser à terme un problème au niveau du barycentre de notre structure. 
+Nous utilisons donc un L298N (cf. <b>L298N.png</b>), un composant qui a pour but de "driver" (contrôler) les moteurs, dont voici le circuit branchement final: <b>test_driver_1.jpg</b>.
+Yuri code et l'applique aux roues, on témoigne du bon fonctionnement des roues, puisqu'elle tournent dans deux sens différents mais en ayant la même vitesse de rotation. Ce composant est plus puissant que les autres drivers, puisqu'il peut réguler sa température mais pose un désavantage notoire dans le cadre de notre projet puisqu'il prend beaucoup plus de place que prévu. Ce dernier critère pourra poser à terme un problème au niveau du barycentre de notre structure. 
 
 <hr>
 
 <h2>Semaine du 29/01/18</h2>
-Semaine de ski: je n'ai pas pris de matériel avec moi, et donc pas de travail notoire à mentionner même si j'ai quand même regarder les types de projets qui ressemblaient au notre. 
+Semaine de ski: je n'ai pas pris de matériel avec moi, et donc pas de travail notoire à mentionner même si j'ai quand même regarder les types de projets qui ressemblaient au notre. Je regarde notamment les différentes applications du chargement par induction à des objets autres que des smartphones et je tombe sur cette vidéo: 
 
 <hr>
 
