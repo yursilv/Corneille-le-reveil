@@ -47,13 +47,14 @@ Semaine de ski: je n'ai pas pris de matériel avec moi, et donc pas de travail n
 
 <h2>Semaine du 05/02/18</h2>
 
-Cette semaine je 'm'intéresse plus au socle et à ma partie à proprement parler. 
+Cette semaine je 'm'intéresse plus au socle et à ma partie à proprement parler, puisque nous avons reçu les bobines en début de séance. 
 Je continue mes recherches puisque qu'un nouveau problème se pose: "Est-ce-que l'énergie récupérée émergeant des bobines va être automatiquement transformée en tension aux bornes de la batterie et que cette dernière sera chargée, de fait?". Je lis donc un commentaire qui m'ouvre une piste: 
 <br><i>« Il va falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définit l'intensité de charge en fonction de la batterie et de l'alimentation). En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino. »</i> : après vérification, l'utilisation d'un convertisseur boost couplé à un Arduino n'est pas conseillé, il pourrait créer des parasites. 
 
-J'oriente donc ma séance sur l'étude des bobines, la distance maximale à laquelle les bobines offrent un bon rendement et je me rends rapidement compte que le petit module électronique couplé aux bobines a pour but de transformer l'énergie aux tensions. La vidéo que Yuri nous montre nous fait part d'une expérience toute simple où 
+J'oriente donc ma séance sur l'étude des bobines: mise en place et évaluation de la distance maximale à laquelle les bobines offrent un bon rendement. En les intégrant dans mon circuit en série avec un voltmètre, je me rends rapidement compte que le petit module électronique couplé aux bobines a pour but de transformer l'énergie captée en tension. En effet, Yuri nous avait montré une expérience simple où les bobines étaient directement reliées à l'Arduino et alimentaient des LEDs. 
+Voici donc les résultats de cette séance:
+<em>résultats à retranscrire</em>
 
-dem semaine apres mise en place du prototype en carton
 
 Sur papier, à retranscrire (fabrication du socle) réception des bobines à induction
 il faut commandr une batterie rechargeable avec port micro usb
@@ -69,3 +70,9 @@ pas darduino cette semaine, je navance pas sur le projet de mon coté
 Je mets à jour mon cahier d'avancement. On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (L293D) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. On a pas reçu la batterie speciale donc je ne peux pas avancer sur mon socle. 
 AJOUTER LES PHOTOS/SCHEMAS de la structure /IMAGES des composats
 J'ai transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder labatterie et les moteurs. La prochaine etape sera de passer du prototype carton au plastique/plexi.
+
+
+<hr>
+
+<h2>Semaine du 26/02/18</h2>
+Nous avons reçu la pile avec la prise micro USB.
