@@ -97,7 +97,7 @@ En fin de séance, j'ai enfin transposé tout sur L293D, j'ai aussi pris beaucou
 <br></br>
 Dès réception de la pile, je pourrai connecter les bobines, la batterie et la prise secteur pour faire les premiers tests, et <mark>finaliser le socle</mark>.
 <br></br>
-La prochaine étape sera de <u>passer du prototype carton au plastique/plexi</u>.
+La prochaine étape sera de <p><font color="teal">passer du prototype carton au plastique/plexi</font></p>.
 
 <hr>
 
