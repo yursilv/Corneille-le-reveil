@@ -42,28 +42,32 @@ Yuri code et l'applique aux roues, on témoigne du bon fonctionnement des roues,
 <hr>
 
 <h2>Semaine du 29/01/18</h2>
-Semaine de ski: je n'ai pas pris de matériel avec moi, et donc pas de travail notoire à mentionner même si j'ai quand même regarder les types de projets qui ressemblaient au notre. Je regarde notamment les différentes applications du chargement par induction à des objets autres que des smartphones et je tombe sur cette vidéo: 
+Semaine de ski: je n'ai pas pris de matériel avec moi, et donc pas de travail notoire à mentionner même si j'ai quand même regarder les types de projets qui ressemblaient au notre. Je regarde notamment les différentes applications du chargement par induction à des objets autres que des smartphones et je tombe sur cette vidéo: <b>https://www.youtube.com/watch?v=QJC4SwJc32Y&t=3s</b>. Je trouve aussi le schéma <b>souris_induction.png</b> qui retient toute mon attention.
+
 
 <hr>
 
 <h2>Semaine du 05/02/18</h2>
 
-Cette semaine je 'm'intéresse plus au socle et à ma partie à proprement parler, puisque nous avons reçu les bobines en début de séance. 
+Cette semaine je m'intéresse plus au socle et à ma partie à proprement parler, puisque nous avons reçu les bobines en début de séance. 
 Je continue mes recherches puisque qu'un nouveau problème se pose: "Est-ce-que l'énergie récupérée émergeant des bobines va être automatiquement transformée en tension aux bornes de la batterie et que cette dernière sera chargée, de fait?". Je lis donc un commentaire qui m'ouvre une piste: 
 <br><i>« Il va falloir quelque chose capable de charger une batterie, par exemple un module à base de TP4056 pour gérer la charge une cellule LiPo (bien choisir la résistance qui définit l'intensité de charge en fonction de la batterie et de l'alimentation). En sortie on a une tension variant de 3.7 à 4.2V en fonction de la charge de la batterie, donc tu peux ajouter un convertisseur boost (module à base de MT3608 par exemple) à la suite pour amener la tension finale à 5V pour alimenter l'arduino. »</i> : après vérification, l'utilisation d'un convertisseur boost couplé à un Arduino n'est pas conseillé, il pourrait créer des parasites. 
 
-J'oriente donc ma séance sur l'étude des bobines: mise en place et évaluation de la distance maximale à laquelle les bobines offrent un bon rendement. En les intégrant dans mon circuit en série avec un voltmètre, je me rends rapidement compte que le petit module électronique couplé aux bobines a pour but de transformer l'énergie captée en tension. En effet, Yuri nous avait montré une expérience simple où les bobines étaient directement reliées à l'Arduino et alimentaient des LEDs. 
+J'oriente donc ma séance sur l'étude des bobines: mise en place et évaluation de la distance maximale à laquelle les bobines offrent un bon rendement. En les intégrant dans mon circuit en série avec un voltmètre (cf. <b>circuit_test_1.jpg</b>), je me rends rapidement compte que le petit module électronique couplé aux bobines a pour but de transformer l'énergie captée en tension. En effet, Yuri nous avait montré une expérience simple où les bobines étaient directement reliées à l'Arduino et alimentaient des LEDs. 
 Voici donc les résultats de cette séance:
 <em>résultats à retranscrire</em>
 
-
-Sur papier, à retranscrire (fabrication du socle) réception des bobines à induction
-il faut commandr une batterie rechargeable avec port micro usb
+Je commence maintenant à contruire le socle, il est carré et fait de carton et sur sa face supérieure je crée un espace moins rigide que le carton pour y placer la bobine 1 et faire en sorte que la sphère repose au mieux sur son socle.
+Je me rends compte que pour connecter la bobine 1 au secteur et l'autre bobine à la pile, il va falloir sectionner un chargeur micro usb en deux et comme défini dans le <b>brouillon_socle_1.jpg</b>:
+ -  d'une part, relier l'embout secteur à l'embout jaune de la bobine 1, afin qu'elle puisse être alientée;
+ -  d'autre part, relier l'embout micro usb à la bobine 2, puis connecter la prise micro usb à la batterie.
+ 
+ Pour celà, Jérémy a trouvé une super pipile LiPo avec prise micro usb <b>batterie_LiPo.jpg</b>, nous l'avons donc commandée.
 
 <hr>
 
 <h2>Semaine du 12/02/18</h2>
-pas darduino cette semaine, je navance pas sur le projet de mon coté
+Pas d'Arduino cette semaine, je n'avance pas sur le projet de mon coté puisque je laisse le matériel en salle de TP Elec.
 
 <hr>
 
