@@ -95,7 +95,7 @@ Nous n'avons toujours pas reçu la batterie speciale donc je ne peux pas avancer
 <br></br>
 En fin de séance, j'ai enfin transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder les fils rouge et noir de la batterie et ceux des moteurs. 
 <br></br>
-Dès réception de la pile, je pourrai connecter les bobines, la batterie et la prise secteur pour faire les premiers tests, et <u>finaliser le socle</u>.
+Dès réception de la pile, je pourrai connecter les bobines, la batterie et la prise secteur pour faire les premiers tests, et <mark>finaliser le socle</mark>.
 <br></br>
 La prochaine étape sera de <u>passer du prototype carton au plastique/plexi</u>.
 
