@@ -1,7 +1,7 @@
 <h1>Cahier de suivi du projet de Saveria FRATI--PERALDI</h1>
 
 <h2>Début du projet.</h2>
-Yuri, Jérémy et moi décidons de former un groupe, nous nous réunissons autour d'un même projet qu'est "Corneille le réveil", qui s'inspire largement du principe de Clocky (<b>clocky.jpg</b>), un réveil commercialisé.
+Yuri, Jérémy et moi décidons de former un groupe, nous nous réunissons autour d'un même projet qu'est "Corneille le réveil", qui s'inspire largement du principe de Clocky (<b>clocky.jpg</b>), un réveil actuellement commercialisé, et du projet BB8 de l'année dernière (<b>BB8_1.jpg</b>).
 Au cours de cette séance, et comme mentionné dans mes specs, nous partageons le travail en fonction de nos aptitudes et centres d'intérêts.
 <br><b><i>« Nous avons convenu pour les premières semaines du projet que Yuri traiterait essentiellement de ce qui relève de la programmation de l’Arduino et que Jérémy concevrait le schéma et montage de notre prototype. Me concernant, il s’agira d’étudier les similitudes que présentent le projet BB-8 et notre réveil mobile, et faire les recherches nécessaires concernant la fabrication du socle.
 En effet, je dois comprendre le but et fonctionnement du BB-8 puis évaluer ses points fort/faible afin de les adapter à notre projet. Je donnerai aussi un dessin illustrant la future apparence du réveil et étudierait les matériaux (notamment de la sphère extérieure) les plus résistants. » </i></b>
@@ -29,8 +29,8 @@ On prend la décision de commander :
 <hr>
 
 <h2>Semaine du 15/01/18</h2>
-Cette semaine, sur les bons conseils de M.Masson, nous procédons au démantèlement total de feu BB-8. Nous récupérons les deux moteurs simple arbre et les roues. Nous mettons de coté la plaque de plexiglass (sur laquelle reposait la majorité des composants électroniques), la sphère externe, la batterie et la troisième roue de l'ensemble (qui augmentait l'adhérence de la structure à la sphère extérieure).
-Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux moteurs + batterie" (cf. <b>prototype_carton_0.jpg</b>), et nous le testons en pleine classe. Les moteurs marchent bien! 
+Cette semaine, sur les bons conseils de M.Masson, nous procédons au démantèlement total de feu BB-8 (<b>BB8_(2/3).jpg</b>). Nous récupérons les deux moteurs simple arbre et les roues. Nous mettons de coté la plaque de plexiglass (sur laquelle reposait la majorité des composants électroniques), la sphère externe, la batterie et la troisième roue de l'ensemble (qui augmentait l'adhérence de la structure à la sphère extérieure).
+Nous créeons un petit prototype en carton de l'ensemble "deux roues + deux moteurs + batterie" (cf. <b>prototype_carton_0(a/b/c).jpg</b>), et nous le testons en pleine classe. Les moteurs marchent bien! 
 
 <hr>
 
