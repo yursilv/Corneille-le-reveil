@@ -65,7 +65,7 @@ Je me rends compte que pour connecter la bobine 1 au secteur et l'autre bobine �
  -  d'une part, relier l'embout secteur à l'embout jaune de la bobine 1, afin qu'elle puisse être alientée;
  -  d'autre part, relier l'embout micro usb à la bobine 2, puis connecter la prise micro usb à la batterie.
  
- Pour celà, Jérémy a trouvé une super pipile LiPo avec prise micro usb <b>batterie_LiPo.jpg</b>, nous l'avons donc commandée.
+ Pour celà, Jérémy a trouvé une super pipile LiPo avec prise micro usb, nous l'avons donc commandée.
 
 <hr>
 
@@ -75,12 +75,14 @@ Pas d'Arduino cette semaine, je n'avance pas sur le projet de mon coté puisque 
 <hr>
 
 <h2>Semaine du 19/02/18</h2>
-Je mets à jour mon cahier d'avancement. On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (L293D) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. On a pas reçu la batterie speciale donc je ne peux pas avancer sur mon socle. 
-AJOUTER LES PHOTOS/SCHEMAS de la structure /IMAGES des composats
-J'ai transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder labatterie et les moteurs. La prochaine etape sera de passer du prototype carton au plastique/plexi.
+On estime que le driver des moteurs actuel (L298N) est trop gros pour la structure, Yuri et moi en récupèrons un plus petit (<b>L293D.jpeg</b>) que le précédent (environ 4 fois). J'essaie de faire le lien entre les deux pour pouvoir l'intégrer à notre structure. Il va peut-être falloir y ajouter un NAND. 
+
+Nous n'avons toujours pas reçu la batterie speciale donc je ne peux pas avancer sur mon socle. 
+
+En fin de séance, j'ai enfin transposé tout sur L293D, j'ai aussi pris beaucoup de temps pour ressouder les fils rouge et noir de la batterie et ceux des moteurs. La prochaine étape sera de passer du prototype carton au plastique/plexi.
 
 
 <hr>
 
 <h2>Semaine du 26/02/18</h2>
-Nous avons reçu la pile avec la prise micro USB.
+Nous avons reçu la pile avec la prise micro USB (<b>batterie_LiPo.jpg</b>).
