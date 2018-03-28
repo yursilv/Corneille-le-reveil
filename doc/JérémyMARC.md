@@ -29,3 +29,11 @@ J'ai trouvé la batterie à utilsé pour alimenter les moteurs et l'arduino et n
 
 * Séance du 21 février 2018
 
+
+
+* Séance du 21 mars 2018
+
+Réalisation des premiers plans pour maintenir tous les modules électroniques dans la sphère.
+
+* Séance du 28 mars 2018
+
