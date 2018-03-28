@@ -105,3 +105,22 @@ La prochaine étape sera de <font color="blue">passer du prototype carton au pla
 
 <h2>Semaine du 26/02/18</h2>
 Nous avons reçu la pile avec la prise micro USB (<b>batterie_LiPo.jpg</b>).
+
+<hr>
+
+<h2>Semaine du 21/03/18</h2>
+Je commence à relier les bobines réceptrice et emmétrice au cable micro USB et je vérifie la sortie du cable pour voir si l'énergie se transmet bien. 
+Après avoir sacrifié un premier cable USB, qui s'avérait trop fragile, le dexuième présente un problème puisqu'il contient 8 fils couleur cuivre (la masse) et 8 autres verts. 
+Je tente d'abord de souder les 8 fils verts avec le fil rouge de la bobine réceptrice, sans succès. En effet, le voltmètre affiche que quelques 0,001V sont transmis, alors que la batterie délivre 9V.
+On note même que la bobine réceptrice chauffe notablement lors du premier test. Le chargement par induction n'est pas si facile que ça à déployer sur notre projet...
+
+<hr>
+
+<h2>Semaine du 28/03/18</h2>
+Je retourne voir M.Masson pour lui expliquer le problème de la dernière fois: c'est normal, les 8 fils verts sont enfait recouverts de vernis (isolant), d'où la faible conductivité et le voltage ridicule obtenu à la fin. 
+Pendant la séance, je dois:
+- grater le vernis sur les fils verts pour les rendre conducteurs;
+- connecter le chargeur USB avec la bobine émettrice pour l'alimenter;
+- tester quel fil vert donne la tension.
+
+
