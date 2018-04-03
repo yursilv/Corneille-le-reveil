@@ -131,3 +131,7 @@ En fin de séance, j'ai finalement obtenu un résultat, mais pas celui prévu au
 Il consiste à faire la liaison entre une prise secteur (dans le cas de l'expérience, au port USB de mon laptop) où serait branché un chargeur USB lambda, puis relier le cable USB jusqu'à la bobine émettrice (il s'agit en réalité de voir si le transfert de courant se fait): après avoir mesuré une tension avoisinant les 5V, j'en conclus que cette partie est réalisée.
 
 En fin de séance, j'ai optimisé le temps qu'il me restait pour dénuder à nouveau les fils verts, après tests sur le voltmètre, je n'ai toujours pas pu mesurer de tensions aussi correctes que pour l'expérience ci-dessus. Il me reste donc à finir ce travail là et le socle sera en état de marche.
+
+<h2>Semaine du 05/04/18</h2>
+Cette semaine j'essaie de m'approprier OPENSCAD pour faire le schéma en 3D du socle. Je ne pense pas l'imprimer tout de suite puisque je ne sais toujours pas comment je vais positionner la bobine émettrice sur le dessus du socle, à voir. 
+J'ai tout de même effectuer un premier modèle <b>Socle_Corneille_1.scad</b>.
