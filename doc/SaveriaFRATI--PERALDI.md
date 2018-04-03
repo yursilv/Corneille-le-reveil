@@ -110,9 +110,9 @@ Nous avons reçu la pile avec la prise micro USB (<b>batterie_LiPo.jpg</b>).
 
 <h2>Semaine du 21/03/18</h2>
 Je commence à relier les bobines réceptrice et emmétrice au cable micro USB et je vérifie la sortie du cable pour voir si l'énergie se transmet bien. 
-<br></br>
+
 Après avoir sacrifié un premier cable USB, qui s'avérait trop fragile, le dexuième présente un problème puisqu'il contient 8 fils couleur cuivre (la masse) et 8 autres verts. 
-<br></br>
+
 Je tente d'abord de souder les 8 fils verts avec le fil rouge de la bobine réceptrice, sans succès. En effet, le voltmètre affiche que quelques 0,001V sont transmis, alors que la batterie délivre 9V.
 On note même que la bobine réceptrice chauffe notablement lors du premier test. Le chargement par induction n'est pas si facile que ça à déployer sur notre projet...
 
@@ -120,16 +120,14 @@ On note même que la bobine réceptrice chauffe notablement lors du premier test
 
 <h2>Semaine du 28/03/18</h2>
 Je retourne voir M.Masson pour lui expliquer le problème de la dernière fois: c'est <b>normal</b>, les 8 fils verts sont enfait recouverts de vernis (isolant), d'où la faible conductivité et le voltage ridicule obtenu à la fin. 
-<br></br> Pendant la séance, je dois:
-<br></br> - grater le vernis sur les fils verts pour les rendre conducteurs;
-<br></br> - connecter le chargeur USB avec la bobine émettrice pour l'alimenter;
-<br></br> - tester quel fil vert donne la tension.
 
-<br></br> En fin de séance, j'ai finalement obtenu un résultat, mais pas celui prévu au départ! En effet, j'ai tenté de dénuder les fils verts du cable micro usb mais ceux-ci sont tellement fragiles qu'ils se sectionnent facilement. J'ai dénudé au mieux que j'ai pu, puis j'ai fais une pause et suis passée au travail sur l'autre bobine.
+Pendant la séance, je dois:
+ - grater le vernis sur les fils verts pour les rendre conducteurs;
+ - connecter le chargeur USB avec la bobine émettrice pour l'alimenter;
+ - tester quel fil vert donne la tension.
 
-<br></br> Il consiste à faire la liaison entre une prise secteur (dans le cas de l'expérience, au port USB de mon laptop) où serait branché un chargeur USB lambda, puis relier le cable USB jusqu'à la bobine émettrice (il s'agit en réalité de voir si le transfert de courant se fait): après avoir mesuré une tension avoisinant les 5V, j'en conclus que cette partie est réalisée.
+En fin de séance, j'ai finalement obtenu un résultat, mais pas celui prévu au départ! En effet, j'ai tenté de dénuder les fils verts du cable micro usb mais ceux-ci sont tellement fragiles qu'ils se sectionnent facilement. J'ai dénudé au mieux que j'ai pu, puis j'ai fais une pause et suis passée au travail sur l'autre bobine.
 
-<br></br> En fin de séance, j'ai optimisé le temps qu'il me restait pour dénuder à nouveau les fils verts, après tests sur le voltmètre, je n'ai toujours pas pu mesurer de tensions aussi correctes que pour l'expérience ci-dessus. Il me reste donc à finir ce travail là et le socle sera en état de marche.
+Il consiste à faire la liaison entre une prise secteur (dans le cas de l'expérience, au port USB de mon laptop) où serait branché un chargeur USB lambda, puis relier le cable USB jusqu'à la bobine émettrice (il s'agit en réalité de voir si le transfert de courant se fait): après avoir mesuré une tension avoisinant les 5V, j'en conclus que cette partie est réalisée.
 
-
-
+En fin de séance, j'ai optimisé le temps qu'il me restait pour dénuder à nouveau les fils verts, après tests sur le voltmètre, je n'ai toujours pas pu mesurer de tensions aussi correctes que pour l'expérience ci-dessus. Il me reste donc à finir ce travail là et le socle sera en état de marche.
