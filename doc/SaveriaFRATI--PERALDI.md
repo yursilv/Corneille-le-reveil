@@ -77,6 +77,9 @@ Voici donc les résultats de cette séance:
 <em>résultats à retranscrire</em>
 <br></br>
 Je commence maintenant à contruire le socle, il est carré et fait de carton et sur sa face supérieure je crée un espace moins rigide que le carton pour y placer la bobine 1 et faire en sorte que la sphère repose au mieux sur son socle.
+
+A la fin de la séance, j'ai construit le socle (<b>Prototype_Socle_Corneille.jpg</b>).
+
 Je me rends compte que pour connecter la bobine 1 au secteur et l'autre bobine à la pile, il va falloir sectionner un chargeur micro usb en deux et comme défini dans le <b>brouillon_socle_1.jpg</b>:
  -  d'une part, relier l'embout secteur à l'embout jaune de la bobine 1, afin qu'elle puisse être alientée;
  -  d'autre part, relier l'embout micro usb à la bobine 2, puis connecter la prise micro usb à la batterie.
