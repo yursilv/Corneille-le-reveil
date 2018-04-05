@@ -147,8 +147,11 @@ C'est la séance où on fait la deuxième présentation.
 Avant de passer, je m'atèle au cable micro usb.
 
 Rappel sur le chargement par induction:
+
 <b><i> « Le rechargement par induction fonctionne sans branchement physique entre le chargeur et l'appareil, il repose sur le principe de l'induction électrique.
 La bobine émettrice est alimentée par un courant électrique, elle produit un champ magnétique (c'est le principe de l'électroaimant). Lorsque l'appareil à recharger est posé sur le chargeur, leur proximité est telle que le champ magnétique créé induit un courant électrique dans celle du “ récepteur ” et alimente sa batterie. 
   
 Comme l'appareil à recharger ne possède pas de bobine électrique interne, il faut le relier à une bobine externe pour que le transfert d'énergie puisse se faire.
-Dans les deux cas, le support est relié au connecteur d'alimentation de l'appareil à recharger, et joue le rôle d'intermédiaire. Toutefois, depuis peu, certains fabricants proposent des batteries de remplacement pour appareils mobiles dans lesquelles une bobine est déjà présente, ce qui permet de s'affranchir du support faisant office de récepteur. » (source: http://www.01net.com/actualites/comment-fonctionne-le-rechargement-par-induction-517956.html )</i></b>
+Dans les deux cas, le support est relié au connecteur d'alimentation de l'appareil à recharger, et joue le rôle d'intermédiaire. Toutefois, depuis peu, certains fabricants proposent des batteries de remplacement pour appareils mobiles dans lesquelles une bobine est déjà présente, ce qui permet de s'affranchir du support faisant office de récepteur. »</i></b>
+
+(source: http://www.01net.com/actualites/comment-fonctionne-le-rechargement-par-induction-517956.html )
