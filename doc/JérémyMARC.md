@@ -37,3 +37,4 @@ Réalisation des premiers plans pour maintenir tous les modules électroniques d
 
 * Séance du 28 mars 2018
 
+Réalisation de la maquette 3D sur autodesk Inventor de la partie mécanique du réveil.
