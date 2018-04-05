@@ -145,3 +145,4 @@ J'ai tout de même effectuer un premier modèle (<b>Socle_Corneille_1.scad et Ca
 (05/04/2018)
 C'est la séance où on fait la deuxième présentation.
 Avant de passer, je m'atèle au cable micro usb.
+Rappel de la définition du charement par induction:
