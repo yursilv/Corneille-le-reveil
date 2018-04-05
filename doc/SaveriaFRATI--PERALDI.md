@@ -138,5 +138,10 @@ En fin de séance, j'ai optimisé le temps qu'il me restait pour dénuder à nou
 <hr>
 
 <h2>Semaine du 05/04/18</h2>
+(02/04/2018)
 Cette semaine j'essaie de m'approprier OPENSCAD pour faire le schéma en 3D du socle. Je ne pense pas l'imprimer tout de suite puisque je ne sais toujours pas comment je vais positionner la bobine émettrice sur le dessus du socle, à voir. 
 J'ai tout de même effectuer un premier modèle (<b>Socle_Corneille_1.scad et Capture du 2018-04-03 23-13-37.png</b>).
+
+(05/04/2018)
+C'est la séance où on fait la deuxième présentation.
+Avant de passer, je m'atèle au cable micro usb.
