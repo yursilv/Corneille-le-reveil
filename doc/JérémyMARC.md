@@ -37,4 +37,20 @@ Réalisation des premiers plans pour maintenir tous les modules électroniques d
 
 * Séance du 28 mars 2018
 
-Réalisation de la maquette 3D sur autodesk Inventor de la partie mécanique du réveil.
+Réalisation de la maquette 3D sur autodesk Inventor de la partie mécanique du réveil. Celui-ci est composé d'un rectangle comme base, de 2 parois latérales (avec des fentes pour insérer la carte arduino et la carte électronique qui contient tous les composants) et d'un disque sur la partie supérieure.
+
+* Séance du 5 avril 2018
+
+Impression (parois latérales), découpage (disque supérieur et rectangle inférieur) et assemblage de la maquette 3D et vérifications des dimentions. Ces dernières n'étant pas bonnes, des modifications ont été faites sur autodesk Inventor: choix de plusieurs diamètres pour le disque du dessus, agrandissement du rectangle inférieur.
+
+* Séance du 10 avril 2018
+
+
+
+* Séance du 4 mai 2018
+ 
+ Test du module bruit. Modification du modèle 3D avec le choix d'imprimer le bloc support en entier. Réalisation de l'assemblage 3D du support.
+ 
+* Séance du 14 mai 2018
+
+Dessins du circuit électronique.
