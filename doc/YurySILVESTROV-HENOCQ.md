@@ -45,7 +45,7 @@ Nous avons fait la présentation et à la fin de la séance on a pu tester le fo
 
 * Vacances de Ski
 
-J'ai commencé à développer notre application Android. Les fonctionnalités qui me posent le plus de problèmes sont la connection et la transmission de données par bluetooth. En effet, il y a un grand nombre de notions de programmation que je ne connais pas dans les tutos trouvés sur internet, notamment l'utilisation des "thread" et des "socket". Finalement en cherchant un peu partout j'ai réussi à créer un programme dont je comprend plus ou moins le fonctionnement et il ne reste plus qu'à le tester la séance prochaine.
+J'ai commencé à développer notre application Android. Les fonctionnalités qui me posent le plus de problèmes sont la connection et la transmission de données par bluetooth. En effet, il y a un grand nombre de notions de programmation que je ne connais pas dans les tutos trouvés sur internet, notamment l'utilisation des "thread" et des "socket". Finalement en cherchant un peu partout j'ai réussi à créer un programme dont je comprend plus le fonctionnement et il ne reste plus qu'à le tester la séance prochaine.
 
 Liens utilisés pour le "timepicker" :
 
@@ -58,3 +58,15 @@ Liens utilisés pour la connection BT :
 http://www.tutos-android.com/utilisation-bluetooth-application-android
 
 http://sberfini.developpez.com/tutoriaux/android/bluetooth/
+
+* Séance du 4 mai 2018
+
+J'ai travaillé sur la synchronisation automatique de l'heure du réveil avec l'heure du portable.
+
+* Séance du 14 mai 2018
+
+J'ai presque fini le code côté Arduino. Le plus gros problème qu'il faut résoudre en ce moment, c'est la trasmission par bluetooth, car apparemment il a une quantité de données assez limitée qu'il peut transmettre en une fois (j'ai découvert ça quand j'ai vu qu'une partie des données envoyées était perdue). J'ai donc condensé les données en enlevant les séparateurs, mais il reste maintenant à bien les lire et mettre dans un tableau côté Arduino.
+
+* Séance au Fablab
+
+Nous avons passé tout l'après-midi au Fablab, j'ai soudé tous les composants sur la plaque à essai, mais sans tests, difficile à dire si ça a été fait correctement. Donc il faut tester au plus vite.
