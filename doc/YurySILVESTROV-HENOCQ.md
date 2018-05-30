@@ -69,4 +69,4 @@ J'ai presque fini le code côté Arduino. Le plus gros problème qu'il faut rés
 
 * Séance au Fablab
 
-Nous avons passé tout l'après-midi au Fablab, j'ai soudé tous les composants sur la plaque à essai, mais sans tests, difficile à dire si ça a été fait correctement. Donc il faut tester au plus vite.
+Nous avons passé toute l'après-midi au Fablab, j'ai soudé tous les composants sur la plaque à essai, mais sans tests, difficile à dire si ça a été fait correctement. Donc il faut tester au plus vite.
