@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color1"
+    tools:context="polytech.corneillelereveil.MainActivity">
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/rectangle_bordure"
+        android:hint="@string/time_hint"
+        android:onClick="clickTime"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/color5"
+        android:textColorHint="@color/color4"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nomBT"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <EditText
+        android:id="@+id/nomBT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/rectangle_bordure"
+        android:ems="5"
+        android:hint="@string/number_hint"
+        android:inputType="textPersonName"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/color5"
+        android:textColorHint="@color/color4"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/time"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/connection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/rectangle_bordure2"
+        android:hint="@string/connection"
+        android:onClick="clickConn"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/color5"
+        android:textColorHint="@color/color4"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/connection"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/time">
+
+        <CheckBox
+            android:id="@+id/checkLundi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/lundi"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteY="369dp"
+            tools:layt_editor_absoluteX="69dp" />
+
+        <CheckBox
+            android:id="@+id/checkMardi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/mardi"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteX="88dp"
+            tools:layout_editor_absoluteY="301dp" />
+
+        <CheckBox
+            android:id="@+id/checkMercredi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/mercredi"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteX="132dp"
+            tools:layout_editor_absoluteY="160dp" />
+
+        <CheckBox
+            android:id="@+id/checkJeudi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/jeudi"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteX="156dp"
+            tools:layout_editor_absoluteY="160dp" />
+
+        <CheckBox
+            android:id="@+id/checkVendredi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/vendredi"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteX="168dp"
+            tools:layout_editor_absoluteY="142dp" />
+
+        <CheckBox
+            android:id="@+id/checkSamedi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/samedi"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteX="196dp"
+            tools:layout_editor_absoluteY="174dp" />
+
+        <CheckBox
+            android:id="@+id/checkDimanche"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/dimanche"
+            android:textColor="@color/color5"
+            android:theme="@style/CheckBox"
+            tools:layout_editor_absoluteX="303dp"
+            tools:layout_editor_absoluteY="195dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

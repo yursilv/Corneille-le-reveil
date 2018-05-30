@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Corneille Le Reveil</string>
+    <string name="time_hint">HEURE</string>
+    <string name="number_hint">Nom BT</string>
+    <string name="connection">Envoyer</string>
+    <string name="lundi">Lundi</string>
+    <string name="mardi">Mardi</string>
+    <string name="mercredi">Mercredi</string>
+    <string name="jeudi">Jeudi</string>
+    <string name="vendredi">Vendredi</string>
+    <string name="samedi">Samedi</string>
+    <string name="dimanche">Dimanche</string>
+</resources>
