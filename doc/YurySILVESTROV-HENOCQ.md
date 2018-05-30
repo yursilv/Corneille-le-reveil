@@ -65,7 +65,7 @@ J'ai travaillé sur la synchronisation automatique de l'heure du réveil avec l'
 
 * Séance du 14 mai 2018
 
-J'ai presque fini le code côté Arduino. Le plus gros problème qu'il faut résoudre en ce moment, c'est la trasmission par bluetooth, car apparemment il a une quantité de données assez limitée qu'il peut transmettre en une fois (j'ai découvert ça quand j'ai vu qu'une partie des données envoyées était perdue). J'ai donc condensé les données en enlevant les séparateurs, mais il reste maintenant à bien les lire et mettre dans un tableau côté Arduino.
+J'ai presque fini le code côté Arduino. Le plus gros problème qu'il faut résoudre en ce moment, c'est la trasmission par bluetooth, car apparemment il y a une quantité de données assez limitée qu'il peut transmettre en une fois (j'ai découvert ça quand j'ai vu qu'une partie des données envoyées était perdue). J'ai donc condensé les données en enlevant les séparateurs, mais il reste maintenant à bien les lire et mettre dans un tableau côté Arduino.
 
 * Séance au Fablab
 
