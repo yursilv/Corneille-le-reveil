@@ -164,7 +164,6 @@ Après avoir fait d'autres tests sur les bobines, j'ai fait brulé la pile, elle
 Je n'avance pas plus car je n'arrive toujours pas à recharger une pile avec l'énergie stockée dans la bobine réceptrice et je ne sais pas si ca va etre faisable avec une autre.
 Soit la pile s'est cassé à cause de mes mauvais branchements, soit elle n'était pas de bonne qualité.
 
-
 <hr>
 
 <h2>Semaine du 26/04/18</h2>
@@ -178,7 +177,6 @@ On utilise alors les restes des autres cables micro usb que j'avais demonté aup
 A la fin de la séance, tout marche, j'effectue quelques soudures pour la finition. 
 Dès le premier test avec la batterie, elle s'est allumée (ce qui signifie que le courant stockée dans la bobine réceptrice a été redistribué dans la batterie, et qu'un courant assez fort est débité pour qu'elle se charge).
 
-
 <hr>
 
 <h2>Semaine du 16/05/18</h2>
@@ -187,6 +185,13 @@ Je suis allée au fablab mais une trop longue liste d'attente donc jai demandé 
 
 <hr>
 
-<h2>Semaine du 21/05/18</h2>
+<h2>Semaine du 28/05/18</h2>
 Je suis allée récuperer mon socle le lundi. Le mardi on s'est retrouvés au fablab avec Yuri et Jérémy car les parties que Jérémy avait imprimé sur limprimante 3D du fablab ne sont toujours pas a la bonne taille. On a décomposer la structure imprimee et Yuri a fais les soudures de tous les composants aux plaques. Moi, j'ai collé les moteurs à la structure, ainsi que ma batterie et ma bobine. On a essayé de tout mettre en place dans la sphère mais on a peur de pas avoir assez de temps pour finir le projet.
 Yuri est assez defaitiste a ce sujet, et je pense qu'il n'a pas tort.
+
+Je suis restée jusqu'à la fermeture au fablab pour écrire le rapport, j'ai deja bien avance. Il est structuré de sorte a ce que chacun puisse raconter sa propre experience. 
+
+On est jeudi, et je peaufine le rapport, on va faire les derniers tests cet apres midi.
+
+
+
