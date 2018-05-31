@@ -155,3 +155,38 @@ Comme l'appareil à recharger ne possède pas de bobine électrique interne, il 
 Dans les deux cas, le support est relié au connecteur d'alimentation de l'appareil à recharger, et joue le rôle d'intermédiaire. Toutefois, depuis peu, certains fabricants proposent des batteries de remplacement pour appareils mobiles dans lesquelles une bobine est déjà présente, ce qui permet de s'affranchir du support faisant office de récepteur. »</i></b>
 
 (source: http://www.01net.com/actualites/comment-fonctionne-le-rechargement-par-induction-517956.html )
+
+<hr>
+
+<h2>Semaine du 19/04/18</h2>
+
+Après avoir fait d'autres tests sur les bobines, j'ai fait brulé la pile, elle est inutilisable selon M.Masson. la pile était brulante après moins de 30 secondes en lien avec avec les bobines.
+Je n'avance pas plus car je n'arrive toujours pas à recharger une pile avec l'énergie stockée dans la bobine réceptrice et je ne sais pas si ca va etre faisable avec une autre.
+Soit la pile s'est cassé à cause de mes mauvais branchements, soit elle n'était pas de bonne qualité.
+
+
+<hr>
+
+<h2>Semaine du 26/04/18</h2>
+J'ai reçu la nouvelle pil en croisant M.Masson dans les couloirs. Elle a les mêmes caractéristiques hormis sa charge: 800mAh contre 400mAh pour la dernière. Peut-être que celle-là marchera mieux.
+
+<hr>
+
+<h2>Semaine du 03/05/18</h2>
+Concernant le chargement, M.Masson m'aide, voyant que je ne m'en sortais toujours pas. Il teste mes branchements, il s'avérait enfait que mon cable micro USB ne fonctionnait pas correctement (probleme lié a la surchauffe de la derniere batterie ou cable de mauvaise qualite peut etre). 
+On utilise alors les restes des autres cables micro usb que j'avais demonté auparavant (et que javais heureusement gardé!). 
+A la fin de la séance, tout marche, j'effectue quelques soudures pour la finition. 
+Dès le premier test avec la batterie, elle s'est allumée (ce qui signifie que le courant stockée dans la bobine réceptrice a été redistribué dans la batterie, et qu'un courant assez fort est débité pour qu'elle se charge).
+
+
+<hr>
+
+<h2>Semaine du 16/05/18</h2>
+J'ai modifié mon fichier pour le socle.
+Je suis allée au fablab mais une trop longue liste d'attente donc jai demandé à quelquun qui a une imprimante 3d de me l'imprimer.
+
+<hr>
+
+<h2>Semaine du 21/05/18</h2>
+Je suis allée récuperer mon socle le lundi. Le mardi on s'est retrouvés au fablab avec Yuri et Jérémy car les parties que Jérémy avait imprimé sur limprimante 3D du fablab ne sont toujours pas a la bonne taille. On a décomposer la structure imprimee et Yuri a fais les soudures de tous les composants aux plaques. Moi, j'ai collé les moteurs à la structure, ainsi que ma batterie et ma bobine. On a essayé de tout mettre en place dans la sphère mais on a peur de pas avoir assez de temps pour finir le projet.
+Yuri est assez defaitiste a ce sujet, et je pense qu'il n'a pas tort.
